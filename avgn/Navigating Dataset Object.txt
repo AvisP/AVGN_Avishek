@@ -1,0 +1,16 @@
+# For getting individual names
+indvs = np.array(['_'.join(list(i)) for i in dataset.json_indv])
+np.unique(indvs)
+
+# For Individual keys
+nex = 5
+indv_keys = np.array(list(dataset.data_files.keys()))[indvs == indv][:nex]
+
+# Loading individual file information
+
+Indv_file = dataset.data_files[indv_keys[1]]
+
+More information can be found in Indv_file.data["wav_loc"]
+
+Motif info in  dataset.data_files[indv_keys[1]].data["indvs"]["lny42"]["motifs"]
+
