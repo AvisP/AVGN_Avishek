@@ -1,5 +1,5 @@
 # AVGN_Avishek
-AVGN code by Tim Modified for Sakata Lab data
+[AVGN](https://github.com/timsainb/avgn_paper) code developed by Tim Sainburg Modified for Sakata Lab data
 
 Code execution tested on Python 3.7.5 in spyder IDE on Windows
 
