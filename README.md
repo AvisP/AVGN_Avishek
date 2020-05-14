@@ -29,16 +29,13 @@ Results after execution on this dataset are shown
 
 **Spectrograms**
 
-<p float="left">
-  <img src="https://github.com/AvisP/AVGN_Avishek/blob/master/figures/BlackBrown/Scatter_Spec/Br81Bl41_scatter_spec.png" width="32%" title = 'Br81Bl41_Spec_scatter/>
-  <img src="https://github.com/AvisP/AVGN_Avishek/blob/master/figures/BlackBrown/Scatter_Spec/Tutor_Bl5w5_scatter_spec.png" width="32%" /> 
-  <img src="https://github.com/AvisP/AVGN_Avishek/blob/master/figures/BlackBrown/Scatter_Spec/Br82Bl42_scatter_spec.png" width="32%" />
-</p>
+<p align="center"><img src="https://github.com/AvisP/AVGN_Avishek/blob/master/gifs/Spec_scatter2.gif" width="80%" title="Spectrogram Scatter" /></p>
 
 **UMAP**
-<p float="left">
-  <img src="https://github.com/AvisP/AVGN_Avishek/blob/master/figures/BlackBrown/UMAP/Br81bl41.png" width="32%" />
-  <img src="https://github.com/AvisP/AVGN_Avishek/blob/master/figures/BlackBrown/UMAP/Tutor_Bl5w5.png" width="32%" /> 
-  <img src="https://github.com/AvisP/AVGN_Avishek/blob/master/figures/BlackBrown/UMAP/Br82Bl42.png" width="32%" />
-</p>
+<p align="center"><img src="https://github.com/AvisP/AVGN_Avishek/blob/master/gifs/UMAP.gif" width="80%" title="UMAP"/></p>
 
+**Transition Diagram**
+<p align="center"><img src="https://github.com/AvisP/AVGN_Avishek/blob/master/gifs/TransitionDiagram.gif" width="80%" title="UMAP"/></p>
+
+**Network Diagram**
+<p align="center"><img src="https://github.com/AvisP/AVGN_Avishek/blob/master/gifs/NetworkDiagram.gif" width="80%" title="UMAP"/></p>
