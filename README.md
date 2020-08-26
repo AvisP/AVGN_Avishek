@@ -1,7 +1,7 @@
 # AVGN_Avishek
 [AVGN](https://github.com/timsainb/avgn_paper) code developed by Tim Sainburg Modified for Sakata Lab data
 
-Code execution tested on Python 3.7.5 in spyder IDE on Windows
+Code execution tested on Python 3.7.5 in spyder IDE on Windows. Primary changes made
 
 - Avoids issues with SIGALRM attribute in Windows
 - Parallel processing avoided wherever necessary as it leads to error
